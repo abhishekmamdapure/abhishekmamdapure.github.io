@@ -1,35 +1,31 @@
-## Portfolio
+## PORTFOLIO 
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### ABOUT ME 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I am passionate about playing with data. Master's in Mathematical Modeling and Simulation from University of Pune, I see myself inclined towards the design and development of machine learning systems and have a good understanding of the data science workflow.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Cleaning, pre-processing data, performing preliminary statistical analysis, programming in Python and R, building scalable models, and exploring, visualizing and manipulating large datasets are some of my core skills. Adding to my technical skillset and owing to my interest in business, I possess the capability of quickly grasping business objectives and developing strategies that help to achieve them, along with metrics to track their progress.
 
 ---
 
-### Category Name 2
+### PROJECTS 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Malicious URLs Detection](https://github.com/abhishekmamdapure/Malicious-URL-s-detection)
+
+To overcome the disadvantages of the Blacklisting and Heuristic approach (ancient approach) and due to the increasing popularity of Machine Learning this problem was introduced as the problem to solve using Machine Learning techniques. The Machine Learning approach try to analyze the information of a URL and its corresponding websites or web pages, by extracting good feature representations of URLs and training a prediction model on training data of both malicious and benign URLs
+
+<img src="images/url.jpg?raw=true"/>
+
 
 ---
 
 
 
 
----
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

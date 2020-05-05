@@ -19,10 +19,8 @@ To overcome the disadvantages of the Blacklisting and Heuristic approach (ancien
 
 <img src="/images/url.png" alt="Structure of URL" style="width:300px;height:125px;" border="1" class="center">
 
-
-
 ---
-
+### [CONTACT ME](/contact.html) 
 
 
 

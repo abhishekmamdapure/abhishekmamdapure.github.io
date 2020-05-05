@@ -16,8 +16,8 @@ Cleaning, pre-processing data, performing preliminary statistical analysis, prog
 [Malicious URLs Detection](https://github.com/abhishekmamdapure/Malicious-URL-s-detection)
 
 To overcome the disadvantages of the Blacklisting and Heuristic approach (ancient approach) and due to the increasing popularity of Machine Learning this problem was introduced as the problem to solve using Machine Learning techniques. The Machine Learning approach try to analyze the information of a URL and its corresponding websites or web pages, by extracting good feature representations of URLs and training a prediction model on training data of both malicious and benign URLs
+<img src="/images/url.png" alt="Structure of URL" style="width:500px;height:200px;" border="1">
 
-<img src="/images/url.jpg?raw=true"/>
 
 
 ---

@@ -1,3 +1,5 @@
+# About Me
+
 I am passionate about playing with data. Master's in Mathematical Modeling and Simulation from University of Pune, I see myself inclined towards the design and development of machine learning systems and have a good understanding of the data science workflow.
 
 Cleaning, pre-processing data, performing preliminary statistical analysis, programming in Python and R, building scalable models, and exploring, visualizing and manipulating large datasets are some of my core skills. Adding to my technical skillset and owing to my interest in business, I possess the capability of quickly grasping business objectives and developing strategies that help to achieve them, along with metrics to track their progress.

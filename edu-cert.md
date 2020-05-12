@@ -1,15 +1,13 @@
 ## Education
 
 
-> 2018-2020 (expected)
+2018-2020 (expected)
+:  **M.Tech, Mathematical Modeling and Simulation**; Savitribai Phule Pune University (Pune,Maharashtra)
+	
+	*Major Subjects: Machine Learning, Optimization, Probability, Statistical Inference, Numerical Computing, Operational Research*
 
-**M.Tech, Mathematical Modeling and Simulation**; Savitribai Phule Pune University (Pune,Maharashtra)
-
-*Major Subjects: Machine Learning, Optimization, Probability, Statistical Inference, Numerical Computing, Operational Research*
-
-> 2012-2016
-
-**BE, Electronics and Telecommunication**; Savitribai Phule Pune University (Pune,Maharashtra)
+2012-2016
+:  **BE, Electronics and Telecommunication**; Savitribai Phule Pune University (Pune,Maharashtra)
 
 ---
 

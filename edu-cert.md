@@ -41,6 +41,4 @@ Sep 2019
 
 
 
-[^1]: [Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/X4YHP3HSRWWP?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)
-[^2]: [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/d3c34366d3454bc2b2455d983878704b/Statement.pdf)
-[^3]: [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-SQWOEKON/)
+[^1]: [Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/X4YHP3HSRWWP?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course) [^2]: [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/d3c34366d3454bc2b2455d983878704b/Statement.pdf) [^3]: [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-SQWOEKON/)

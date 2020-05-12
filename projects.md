@@ -14,9 +14,9 @@ Project Duration: ```Aug 2019 - Nov 2019``` (M.Tech mini project)
 
 Project Duaration: ``` April 2020 ``` 
 
-<p>This project aims for estimating crowd size in the given image frame, the model used in this project is *CERNet* .The proposed CSRNet is composed of two major components: a convolutional neural network (CNN) as the front-end for 2D feature extraction and a dilated CNN for the back-end, which uses dilated kernels to deliver larger reception fields and to replace pooling operations. </p>
+This project aims for estimating crowd size in the given image frame, the model used in this project is *CERNet*.The proposed CSRNet is composed of two major components: a convolutional neural network (CNN) as the front-end for 2D feature extraction and a dilated CNN for the back-end, which uses dilated kernels to deliver larger reception fields and to replace pooling operations. 
 
-<p> Lastly, this was deployed using *FLASK* and can run locally, still working on the heroku implementation as facing error on increased slug size of the project. 
-</p>
+Lastly, this was deployed using *FLASK* and can run locally, still working on the heroku implementation as facing error on increased slug size of the project. 
+
 <img src="/images/image1.jpg" alt="Snap-shot-first-page" style="float: left; margin-right: 10px;" width="300" height="150" />  <img src="/images/image2.jpg" alt="Snap-shot-first-page" style="float: right; margin-right: 10px;" width="300" height="150"/>
  

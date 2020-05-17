@@ -17,9 +17,12 @@ This project aims for estimating crowd size in the given image frame, the model 
 
 Lastly, this was deployed using *FLASK* and can run locally, still working on the heroku implementation as facing error on increased slug size of the project. 
 
-<img src="/images/image1.jpg" alt="Snap-shot-first-page" style="float: left; margin-right: 10px;" width="300" height="150" />  <img src="/images/image2.jpg" alt="Snap-shot-first-page" style="float: right; margin-right: 10px;" width="300" height="150"/>
- 
+<br/>
+<img src="/images/image1.jpg" alt="Snap-shot-first-page" style="float: left; margin-right: 10px;" width="300" height="150" /> <br/> <img src="/images/image2.jpg" alt="Snap-shot-first-page" style="float: right; margin-right: 10px;" width="300" height="150"/>
+<br/>
+
 --- 
+<br/>
 [TL;DR(Too Long;Didn't Read) Text Summerizer](https://github.com/abhishekmamdapure/TLDR-using-NLTK/blob/master/README.md)
 
 - This project is based on the concept of "sentence similarity", where summary is generated based on the rank of sentences from the input text given. 

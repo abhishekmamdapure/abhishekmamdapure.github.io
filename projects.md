@@ -28,6 +28,6 @@ Lastly, this was deployed using *FLASK* and can run locally, still working on th
 
 - This project is based on the concept of "sentence similarity", where summary is generated based on the rank of sentences from the input text given. 
 - Project is then deployed on HEROKU using FLASK. 
--  Check the project in action here : https://tldr-summary-api.herokuapp.com/
+-  Check the project in action here : [Click here](https://tldr-summary-api.herokuapp.com/)
 
 ---

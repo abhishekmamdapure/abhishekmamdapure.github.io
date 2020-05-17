@@ -17,8 +17,8 @@ This project aims for estimating crowd size in the given image frame, the model 
 
 Lastly, this was deployed using *FLASK* and can run locally, still working on the heroku implementation as facing error on increased slug size of the project. 
 
-<img src="/images/image1.jpg" width="45%"></img>
-<img src="/images/image2.jpg" width="45%"></img>
+<img src="/images/image1.jpg" width="55%">
+<img src="/images/image2.jpg" width="55%">
 <!-- <img src="/images/image2.jpg" alt="Snap-shot-first-page" style="float: right; margin-right: 10px;" width="300" height="150"/> -->
 <br/>
 

@@ -5,6 +5,8 @@
 
 [![About me](https://github.com/abhishekmamdapure/abhishekmamdapure.github.io/blob/master/index_images/1.jpg?raw=true)](/about.md)
 
+# [About me](/about.md)
+
 
 <a href="/projects.md"><img src="https://github.com/abhishekmamdapure/abhishekmamdapure.github.io/blob/master/index_images/2.jpg?raw=true" align="center" height="80" width="190" ></a>
 

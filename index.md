@@ -1,5 +1,5 @@
 
-<a href="/about.md"><img src="https://github.com/abhishekmamdapure/abhishekmamdapure.github.io/blob/master/index_images/0.jpg?raw=true" align="center" height="80" width="320" ></a>
+<a><img src="https://github.com/abhishekmamdapure/abhishekmamdapure.github.io/blob/master/index_images/0.jpg?raw=true" align="center" height="80" width="320" ></a>
 
 
 

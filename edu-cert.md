@@ -60,7 +60,7 @@ Sep 2019
 [^2]: [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/d3c34366d3454bc2b2455d983878704b/Statement.pdf)
 [^3]: [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-SQWOEKON/)
 [^4]: [Practical Machine Learning with Tensorflow](https://nptel.ac.in/content/noc/NOC20/SEM2/Ecertificates/106/noc20-cs95/Course/NPTEL20CS95S71870036101277.jpg)
-[^5]: [Deep Learning (IITKGP)]()
+[^5]: [Deep Learning (IITKGP)](https://nptel.ac.in/content/noc/NOC20/SEM1/Ecertificates/106/noc20-cs11/Course/NPTEL20CS11S21870009101277.jpg)
 
 
 

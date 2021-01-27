@@ -1,8 +1,8 @@
 ## Education
 
 
-2018-2020 (expected)
-:  **M.Tech, Mathematical Modeling and Simulation**; Savitribai Phule Pune University (Pune,Maharashtra)
+2018-2020
+:  **M.Tech, Mathematical Modeling and Simulation (7.3 CGPA)**; Savitribai Phule Pune University (Pune,Maharashtra)
 	
 	*Major Subjects: Machine Learning, Optimization, Probability, Statistical Inference, Numerical Computing, Operational Research*
 

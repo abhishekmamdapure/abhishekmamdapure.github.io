@@ -1,66 +1,68 @@
-## Education
-
-
-2018-2020
-:  **M.Tech, Mathematical Modeling and Simulation (7.3 CGPA)**; Savitribai Phule Pune University (Pune,Maharashtra)
-	
-	*Major Subjects: Machine Learning, Optimization, Probability, Statistical Inference, Numerical Computing, Operational Research*
-
-2012-2016
-:  **BE, Electronics and Telecommunication**; Savitribai Phule Pune University (Pune,Maharashtra)
-
+---
+layout: default
+title: Education & Certifications
 ---
 
-## Certifications 
+# Education & Certifications
 
-Jan 2020 to Apr 2020
-:  **Practical Machine Learning with Tensorflow**; NPTEL [^4]
+<div class="experience-card">
+    <h3>Education</h3>
 
-Jan 2020 to Apr 2020
-:   **Deep Learning (IITKGP)**; NPTEL [^5]
+    <div style="margin-bottom: 20px;">
+        <div class="experience-header">
+            <div>
+                <div class="company-name">Masters of Technology in Mathematical Modeling and Simulation</div>
+                <div class="role">Pune University</div>
+            </div>
+            <div class="duration">2020 | Pune, India</div>
+        </div>
+        <p><strong>Subjects:</strong> Machine Learning, Operations Research, Optimization, Numerical Computing.</p>
+    </div>
 
-Apr 2020
-:   **Data Science Math Skills**; Duke University via Coursera [^1]
+    <div style="margin-bottom: 20px;">
+        <div class="experience-header">
+            <div>
+                <div class="company-name">Bachelors of Engineering in Electronics</div>
+                <div class="role">Pune University</div>
+            </div>
+            <div class="duration">2016 | Pune, India</div>
+        </div>
+    </div>
+</div>
 
-Feb 2020
-:   **Statistical Learning**; Stanford University [^2]
+<div class="experience-card">
+    <h3>Skills</h3>
+    <div class="skills">
+        <span class="skills-tag">Python Programming</span>
+        <span class="skills-tag">Machine Learning</span>
+        <span class="skills-tag">Deep Neural Networks</span>
+        <span class="skills-tag">PyTorch</span>
+        <span class="skills-tag">Statistical Analysis</span>
+        <span class="skills-tag">Natural Language Processing</span>
+        <span class="skills-tag">Large Language Models (LLMs)</span>
+        <span class="skills-tag">Transformers</span>
+        <span class="skills-tag">AWS</span>
+        <span class="skills-tag">Productionizing Models</span>
+        <span class="skills-tag">MongoDB</span>
+        <span class="skills-tag">Customer Segmentation</span>
+        <span class="skills-tag">SDLC</span>
+        <span class="skills-tag">Agile</span>
+        <span class="skills-tag">Stakeholder Communication</span>
+        <span class="skills-tag">Team Management</span>
+        <span class="skills-tag">Generative AI</span>
+        <span class="skills-tag">RAG</span>
+        <span class="skills-tag">Prompt Engineering</span>
+    </div>
+</div>
 
-Sep 2019
-:   **Python for Data Science and Machine Learning**; Udemy [^3]
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-[^1]: [Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/X4YHP3HSRWWP?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)
-[^2]: [Statistical Learning](https://prod-cert-bucket.s3.amazonaws.com/downloads/d3c34366d3454bc2b2455d983878704b/Statement.pdf)
-[^3]: [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-SQWOEKON/)
-[^4]: [Practical Machine Learning with Tensorflow](https://nptel.ac.in/content/noc/NOC20/SEM2/Ecertificates/106/noc20-cs95/Course/NPTEL20CS95S71870036101277.jpg)
-[^5]: [Deep Learning (IITKGP)](https://nptel.ac.in/content/noc/NOC20/SEM1/Ecertificates/106/noc20-cs11/Course/NPTEL20CS11S21870009101277.jpg)
-
-
-
+<div class="experience-card">
+    <h3>Certifications & Papers</h3>
+    <ul>
+        <li>AI Engine for research and modelling in field of Immunotherapy</li>
+        <li>NPTEL - Deep Learning — Indian Institute of Technology - Kharagpur</li>
+        <li>NPTEL - Practical Machine Learning With Tensorflow — Indian Institute of Technology - Madras</li>
+        <li>Data Science Math Skills; Duke University via Coursera</li>
+        <li>Statistical Learning; Stanford University</li>
+        <li>Python for Data Science and Machine Learning; Udemy</li>
+    </ul>
+</div>

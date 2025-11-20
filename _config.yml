@@ -1,10 +1,10 @@
-title: Abhishek Mamdapure # your name (or website title) here
-logo: "/images/abhishek_profile.png?raw=true" # your photo (or logo) here
-description:  # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Practitioner | Statistical Learning | Natural Language Processing   
+title: Abhishek Mamdapure
+logo: "/images/abhishek_profile.png?raw=true"
+description: >-
+  AI & ML Engineer | Generative AI Specialist | Innovator in Large-Scale AI Solutions.
+  <br>
+  Results-driven AI Engineer with 5+ years of specialized experience in Data Science & Generative AI.
   <br><br>
-  
-  
   
   <p>
   <a href="https://www.linkedin.com/in/abhishekmamdapure/">
@@ -30,9 +30,7 @@ description:  # your text below (remove <br> elements if you don't need line bre
   <a href="https://www.kaggle.com/abhi4um">
   <img border="0" alt="Kaggle" src="/images/189_Kaggle-512.png" width="35" height="35">
   </a>
- 
   </p>
-  
     
   <p>
   <a href="abhishek_updated.pdf" download="Abhishek_Mamdapure.pdf">
@@ -43,16 +41,5 @@ description:  # your text below (remove <br> elements if you don't need line bre
     </a>
   </p>
 
-
-
-
-
-  
-  
-  
-  
-   
-  
-  
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -1,45 +1,43 @@
 title: Abhishek Mamdapure
 logo: "/images/abhishek_profile.png?raw=true"
 description: >-
-  AI & ML Engineer | Generative AI Specialist | Innovator in Large-Scale AI Solutions.
+  AI & ML Engineer focused on shipping real Generative AI products to production.
   <br>
-  Results-driven AI Engineer with 5+ years of specialized experience in Data Science & Generative AI.
+  I design and deploy LLM, RAG and ML systems that solve concrete business problems at scale.
+  <br>
+  Currently building enterprise-grade GenAI experiences across banking and life sciences.
   <br><br>
-  
+
   <p>
-  <a href="https://www.linkedin.com/in/abhishekmamdapure/">
-  <img border="0" alt="LinkedIn" src="/images/linkedin_logo.png" width="35" height="35">
-  </a>
-  
-  <a href="https://github.com/abhishekmamdapure">
-  <img border="0" alt="Github" src="/images/github_logo.png" width="35" height="35">
-  </a>
-  
-  <a href="https://medium.com/@mamdapureabhishek">
-  <img border="0" alt="Medium" src="/images/medium_logo.png" width="35" height="35">
-  </a> 
-  
-  <a href="mailto:mamdapureabhishek@gmail.com">
-  <img border="0" alt="Gmail" src="/images/gmail_logo.png" width="35" height="35">
-  </a>
-  
-  <a href="https://twitter.com/afor_abhishek">
-  <img border="0" alt="Twitter" src="/images/twitter_logo.png" width="35" height="35">
-  </a>
-  
-  <a href="https://www.kaggle.com/abhi4um">
-  <img border="0" alt="Kaggle" src="/images/189_Kaggle-512.png" width="35" height="35">
-  </a>
+    <a href="https://www.linkedin.com/in/abhishekmamdapure/" target="_blank" rel="noopener noreferrer">
+      <img border="0" alt="LinkedIn" src="/images/linkedin_logo.png" width="35" height="35">
+    </a>
+
+    <a href="https://github.com/abhishekmamdapure" target="_blank" rel="noopener noreferrer">
+      <img border="0" alt="Github" src="/images/github_logo.png" width="35" height="35">
+    </a>
+
+    <a href="https://medium.com/@mamdapureabhishek" target="_blank" rel="noopener noreferrer">
+      <img border="0" alt="Medium" src="/images/medium_logo.png" width="35" height="35">
+    </a>
+
+    <a href="https://twitter.com/afor_abhishek" target="_blank" rel="noopener noreferrer">
+      <img border="0" alt="Twitter" src="/images/twitter_logo.png" width="35" height="35">
+    </a>
+
+    <a href="https://www.kaggle.com/abhi4um" target="_blank" rel="noopener noreferrer">
+      <img border="0" alt="Kaggle" src="/images/189_Kaggle-512.png" width="35" height="35">
+    </a>
   </p>
-    
+
   <p>
-  <a href="abhishek_updated.pdf" download="Abhishek_Mamdapure.pdf">
-    <button>Download CV</button>
-  </a>
-  <a href="/contact.html" >
-    <button>Contact Me</button>
+    <a href="/pdf/Resume-Abhishek_Mamdapure.pdf" download="Abhishek_Mamdapure.pdf">
+      <button>Download CV</button>
+    </a>
+    <a href="https://calendly.com/mamdapureabhishek/30-min-discussion-with-abhishek-mamdapure" target="_blank" rel="noopener noreferrer">
+      <button>Book a call</button>
     </a>
   </p>
 
 theme: jekyll-theme-minimal
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0

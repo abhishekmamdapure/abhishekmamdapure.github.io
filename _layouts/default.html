@@ -2,26 +2,44 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&family=Roboto+Mono:wght@300;400&display=swap" rel="stylesheet">
+    <!-- SEO Essentials -->
+    <meta name="description" content="Abhishek Mamdapure – AI Engineer specializing in Generative AI, RAG systems, ML engineering, and full-stack product building.">
+    <meta name="keywords" content="AI Engineer, Generative AI, RAG, LLM, Portfolio, Abhishek Mamdapure">
+    <meta name="author" content="Abhishek Mamdapure">
 
-    <!-- Font Awesome -->
+    <!-- OpenGraph (Social Preview) -->
+    <meta property="og:title" content="Abhishek Mamdapure – AI Engineer">
+    <meta property="og:description" content="Portfolio showcasing AI projects, experience, and achievements.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/social-preview.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Abhishek Mamdapure – AI Engineer">
+    <meta name="twitter:description" content="Portfolio showcasing AI, ML, and product engineering.">
+    <meta name="twitter:image" content="{{ site.url }}/assets/img/social-preview.png">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+
+    <!-- Fonts/Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  
+    <!-- Main Styles -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
   <body>
-    
+    <label class="theme-toggle">
+      <input type="checkbox" id="themeSwitcher">
+      <span></span>
+    </label>
+
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -30,11 +48,13 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-logo" />
         {% endif %}
 
-        <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p> -->
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        <!-- <label class="theme-toggle">
+          <input type="checkbox" id="themeSwitcher">
+          <span></span>
+        </label> -->
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -53,6 +73,51 @@
         <p>Hosted on GitHub Pages &mdash; by <a href="https://github.com/abhishekmamdapure">Abhishek Mamdapure</a></p>
       </footer>
     </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Theme toggle
+        const toggle = document.getElementById("themeSwitcher");
+        if (toggle) {
+          if (localStorage.getItem("theme") === "light") {
+            document.body.classList.add("light-mode");
+            toggle.checked = true;
+          }
+
+          toggle.addEventListener("change", function () {
+            if (toggle.checked) {
+              document.body.classList.add("light-mode");
+              localStorage.setItem("theme", "light");
+            } else {
+              document.body.classList.remove("light-mode");
+              localStorage.setItem("theme", "dark");
+            }
+          });
+        }
+
+        // Tab switching for main page
+        const tabButtons = document.querySelectorAll(".tab-button");
+        const tabPanes = document.querySelectorAll(".tab-pane");
+
+        if (tabButtons.length && tabPanes.length) {
+          tabButtons.forEach(function (btn) {
+            btn.addEventListener("click", function () {
+              const target = btn.dataset.tab;
+              tabButtons.forEach(function (b) { b.classList.remove("active"); });
+              tabPanes.forEach(function (p) { p.classList.remove("active"); });
+
+              btn.classList.add("active");
+              const pane = document.getElementById("tab-" + target);
+              if (pane) {
+                pane.classList.add("active");
+              }
+            });
+          });
+        }
+      });
+    </script>
+
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

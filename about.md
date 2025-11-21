@@ -5,8 +5,8 @@ title: About Me
 
 # About Me
 
-<div style="background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <p><strong>Hello, I'm Abhishek.</strong></p>
+<div class="content-card">
+    <p class="highlight-text"><strong>Hello, I'm Abhishek.</strong></p>
     <p>I am a results-driven AI Engineer with over 5 years of specialized experience in Data Science & Generative AI, delivering measurable business outcomes. I have reduced operational costs by millions through custom LLM implementations and scaled AI systems for Fortune 500 companies.</p>
 
     <p>My expertise lies in production-ready NLP, SLM, LLM models, and RAG solutions that directly enhance user experience metrics. I am passionate about innovating in Large-Scale AI Solutions.</p>

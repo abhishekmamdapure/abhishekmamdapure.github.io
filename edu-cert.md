@@ -5,7 +5,7 @@ title: Education & Certifications
 
 # Education & Certifications
 
-<div class="experience-card">
+<div class="content-card">
     <h3>Education</h3>
 
     <div style="margin-bottom: 20px;">
@@ -30,7 +30,7 @@ title: Education & Certifications
     </div>
 </div>
 
-<div class="experience-card">
+<div class="content-card">
     <h3>Skills</h3>
     <div class="skills">
         <span class="skills-tag">Python Programming</span>
@@ -55,7 +55,7 @@ title: Education & Certifications
     </div>
 </div>
 
-<div class="experience-card">
+<div class="content-card">
     <h3>Certifications & Papers</h3>
     <ul>
         <li>AI Engine for research and modelling in field of Immunotherapy</li>
